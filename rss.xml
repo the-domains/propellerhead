@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[propellerhead]]></title>
         <description><![CDATA[propellerhead]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/propellerhead/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Tue, 17 May 2016 04:19:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/propellerhead/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Experience a NASA Spacewalk Through the Lens of a GoPro Camera]]></title>
+            <description><![CDATA[<article><h1>Experience a NASA Spacewalk Through the Lens of a GoPro Camera</h1><p>Want to see what it's like to "walk" around in space outside the International Space Station? NASA wants to show you. The agency recently strapped GoPro cameras onto two astronauts to capture the wonder of spacewalks from their perspective.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3d0f4303f6b7750f52857db8c393871f382887d.jpg"></article>]]></description>
+            <link>http://petapixel.com/2015/04/12/experience-a-nasa-spacewalk-through-the-lens-of-a-gopro-camera/</link>
+            <guid isPermaLink="false">7b057bf6-749b-4a71-b92b-fd48842b3cef</guid>
+            <pubDate>Tue, 17 May 2016 04:19:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High Velocity Aerial Filming]]></title>
+            <description><![CDATA[<article><h1>High Velocity Aerial Filming</h1><p>Aerial Filming took a giant leap forward when Blue Sky and Peter Degerfeldt challenged Gyro-stabilized Systems in Grass Valley, US, to build a GSS 520 5 axis system that would produce rock solid images at a speed of more than 300 knots per hour.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4aa7ef75a0a8a8ecf32ab754c91f7cc08ad0d54.jpg"></article>]]></description>
+            <link>https://vimeo.com/162088181</link>
+            <guid isPermaLink="false">b1bdd6c4-f1f3-4821-bf76-8a3c53f7b016</guid>
+            <pubDate>Tue, 17 May 2016 04:19:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[100 Stunning Picture Quotes That Will Supercharge Your Creativity]]></title>
             <description><![CDATA[<article><h1>100 Stunning Picture Quotes That Will Supercharge Your Creativity</h1><p>Find your next favorite quote rendered in stunning graphic design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab8424258c57e49e23b68199e2e806598a1edf6e.png"></article>]]></description>
